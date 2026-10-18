@@ -1,10 +1,8 @@
 # 📱 TaskLocal - Platformă Mobilă de Micro-Tasking Local
 
-Aplicație mobilă Android dezvoltată în **Kotlin** și **Jetpack Compose** în cadrul laboratorului de **Sisteme Mobile și Aplicații (SMA)**.
-
 ## 👥 Autor
-* **Nume:** [Numele tău complet]
-* **Facultate / Grupa:** [Grupa ta]
+* **Nume:** Bardan Elena Bianca
+* **Facultate / Grupa:** 4C.2.1
 
 ---
 
